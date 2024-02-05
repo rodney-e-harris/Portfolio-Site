@@ -21,11 +21,33 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(58, 48, 79);
 }
 
 .App-link {
-  color: #61dafb;
+  color: #61e9fb;
+}
+
+:root {
+  --active-color: #ffee93;
+  --link-text-color: #f1faee;
+  --menu-background-color: #1d3557;
+  --active-background-color: #132238;
+}
+
+h3 {
+  margin: 40px 0 0;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+a {
+  color: #65068b;
 }
 
 @keyframes App-logo-spin {
