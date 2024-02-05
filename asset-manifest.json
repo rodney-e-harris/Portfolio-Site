@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rodney-e-harris.github.io/static/css/main.ff1821cc.css",
+    "main.js": "/rodney-e-harris.github.io/static/js/main.4ba20485.js",
+    "static/js/592.0044cab2.chunk.js": "/rodney-e-harris.github.io/static/js/592.0044cab2.chunk.js",
+    "static/media/ProfilePic.jpg": "/rodney-e-harris.github.io/static/media/ProfilePic.f0bdb653fcb5bc0ef6c4.jpg",
+    "index.html": "/rodney-e-harris.github.io/index.html",
+    "main.ff1821cc.css.map": "/rodney-e-harris.github.io/static/css/main.ff1821cc.css.map",
+    "main.4ba20485.js.map": "/rodney-e-harris.github.io/static/js/main.4ba20485.js.map",
+    "592.0044cab2.chunk.js.map": "/rodney-e-harris.github.io/static/js/592.0044cab2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff1821cc.css",
+    "static/js/main.4ba20485.js"
+  ]
+}
