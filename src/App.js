@@ -1,17 +1,11 @@
 import './App.css';
+import NavBar from './NavBar.js';
 
 function App() {
   return (
     <div className="App">
 
-      {/* Temporary Navbar untill CSS added  */}
-      <header>
-        <ul>
-          <li><a href="/">About</a></li>
-          <li><a href="projects">Projects</a></li>
-          <li><a href="works-in-progress">Works-In-Progress</a></li>
-        </ul>
-      </header>
+    <NavBar /> {/* Render the NavBar component */}
 
     <h1>Rodney Harris</h1>
 

@@ -28,9 +28,26 @@
   color: #61e9fb;
 }
 
+
+body {
+  background-color: #282836; 
+}
+
+h1 {
+   color: white;
+   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+p {
+  color: white;
+}
+
 img{
   max-width: 20%;
   max-height: 20%;
+  border-style: double;
+  border-color: #13131a;
+  overflow: "hidden";
 }
 
 :root {
@@ -41,6 +58,7 @@ img{
 }
 
 h3 {
+  color: white;
   margin: 40px 0 0;
 }
 ul {

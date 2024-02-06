@@ -1,0 +1,22 @@
+.navbar {
+  background-color: #13131a;
+  overflow: hidden;
+  display: flex; 
+  justify-content: center;
+}
+
+/* Style for the links inside the navbar */
+.navbar a {
+  float: left; /* Float the links to the left */
+  display: block; /* Display them as block elements */
+  color: white; /* Text color of the links */
+  text-align: center; /* Center-align the text */
+  padding: 14px 20px; /* Padding around each link */
+  text-decoration: none; /* Remove underlines from links */
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+  background-color: #ddd; /* Background color on hover */
+  color: black; /* Text color on hover */
+}
