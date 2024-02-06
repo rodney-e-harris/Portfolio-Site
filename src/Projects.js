@@ -1,25 +1,18 @@
-import './App.css';
+import './Projects.css';
 import NavBar from './NavBar.js';
 
-function App() {
+function Projects() {
   return (
     <div className="App">
 
     <NavBar /> {/* Render the NavBar component */}
 
-    <h1>Rodney Harris</h1>
-
-      {/* -- Picture */}
-      <img src={require("./assets/ProfilePic.jpg")} className="profilePic">
-      </img>
+    <h1>Projects</h1>
 
       {/* -- About Me  */}
       <p>
         About me section
       </p>
-
-      {/* -- The footer will contain sections where a user can find links to Github, relevant social medias and contact information */}
-      <h3>Footer Placeholders</h3>
 
       <footer>
         <ul>
@@ -43,4 +36,4 @@ function App() {
   );
 }
 
-export default App;
+export default Projects;
