@@ -28,6 +28,11 @@
   color: #61e9fb;
 }
 
+img{
+  max-width: 20%;
+  max-height: 20%;
+}
+
 :root {
   --active-color: #ffee93;
   --link-text-color: #f1faee;

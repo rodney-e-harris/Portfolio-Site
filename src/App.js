@@ -21,7 +21,7 @@ function App() {
 
       {/* -- About Me  */}
       <p>
-        This would be the section for an explanation of the lab and the broader application areas.
+        About me section
       </p>
 
       {/* -- The footer will contain sections where a user can find links to Github, relevant social medias and contact information */}

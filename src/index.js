@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import {
   createBrowserRouter,
   RouterProvider,
-  Route,
+  Route
 } from "react-router-dom";
 
 
