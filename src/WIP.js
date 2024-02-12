@@ -1,28 +1,13 @@
-import './App.css';
+import './WIP.css';
 import NavBar from './NavBar.js';
 
-function App() {
+function WIP() {
   return (
     <div className="App">
 
     <NavBar /> {/* Render the NavBar component */}
 
-    <h1>Rodney Harris</h1>
-
-      {/* -- Picture */}
-      <img src={require("./assets/ProfilePic.jpg")} className="profilePic">
-      </img>
-
-      {/* -- About Me  */}
-      <p>
-        Hello! My name is Rodney Harris. I am a software developer and ULL alumn having graduated in May 2023 with a B.S. in computer science.  
-      </p>
-
-      {/* -- The footer will contain sections where a user can find links to Github, relevant social medias and contact information */}
-      <h3>Experience</h3>
-      {/* -- Group Picture */}
-      <img src={require("./assets/CAPE2022.jpg")} className="CAPEPicture">
-      </img>
+    <h1>Works-In-Progress</h1>
 
       <footer>
         <ul>
@@ -46,4 +31,4 @@ function App() {
   );
 }
 
-export default App;
+export default WIP;

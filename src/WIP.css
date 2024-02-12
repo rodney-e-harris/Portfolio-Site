@@ -42,25 +42,6 @@ p {
   color: white;
 }
 
-.profilePic {
-  max-width: 20%;
-  max-height: 20%;
-  border-style: double;
-  border-color: #13131a;
-  overflow: "hidden";
-}
-
-.CAPEPicture {
-  max-width: 30%;
-  max-height: 30%;
-  border-style: double;
-  border-color: #13131a;
-  overflow: "hidden";
-  margin-left: auto;
-  position: absolute;
-  right: 300px;
-}
-
 .github {
   width: 30px;
   height: 30px;
@@ -95,7 +76,7 @@ a {
 }
 
 footer {
-  position: relative;
+  position: absolute;
   bottom: 0;
   width: 100%;
   height: 4rem;            /* Footer height */

@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import Projects from './Projects';
+import WIP from './WIP';
 import reportWebVitals from './reportWebVitals';
 import {
   createBrowserRouter,
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
   {
     path: "/projects",
     element: <Projects/>,
+  },
+  {
+    path: "/works-in-progress",
+    element: <WIP/>,
   }
 ]);
 
